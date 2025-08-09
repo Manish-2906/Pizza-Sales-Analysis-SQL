@@ -56,11 +56,6 @@ The analysis answers 13 key business questions:
 
 ---
 
-## 📂 Project Files
-- **`pizza_sales_analysis.sql`** → SQL scripts for all queries.
-- **`pizza_sales_schema.png`** → ER diagram of the database.
-- **`pizza_sales_insights.pdf`** → Summary of findings.
-- **`README.md`** → Project documentation.
 
 ---
 
